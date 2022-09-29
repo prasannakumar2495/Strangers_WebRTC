@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Strangers WebRTC</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="find">Find</string>
+    <string name="this_screen_contains_any_extra_details_about_the_user">This screen contains any extra details about the user.</string>
+</resources>

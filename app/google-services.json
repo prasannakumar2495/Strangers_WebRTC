@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224061146658",
+    "project_id": "strangers-webrtc",
+    "storage_bucket": "strangers-webrtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224061146658:android:3857f3f944a00684676c7b",
+        "android_client_info": {
+          "package_name": "com.prasannakumar.strangerswebrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224061146658-7mg3idlqi3glumhi1j114tg8tajj8r0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHenALgcVxmQcnW_pIcx9Evfs-A6cuLZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224061146658-7mg3idlqi3glumhi1j114tg8tajj8r0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
